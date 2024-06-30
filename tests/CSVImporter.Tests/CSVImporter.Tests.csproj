@@ -110,8 +110,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Core\CsvReaderTests.cs" />
-    <Compile Include="Core\CsvWriterTest.cs" />
+    <Compile Include="Services\CsvReaderTests.cs" />
+    <Compile Include="Services\CsvWriterTest.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
